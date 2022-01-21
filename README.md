@@ -1,2 +1,2 @@
 # Sensor
-Isinya adalah beberapa rangkaian Proteus dan program Arduino dari beberapa module sensor
+Berisi rangkaian Proteus dan program Arduino untuk beberapa module sensor
